@@ -33,3 +33,4 @@ https://browser.dataspace.copernicus.eu/?zoom=11&lat=26.33412&lng=56.69&themeId=
 
 -(3강) 북극 척치해 일대 Sentinel-2 Copernicus browser 2025년 2월27일 https://browser.dataspace.copernicus.eu/?zoom=8&lat=71.21637&lng=-162.58227&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BIyAnJ2xyxSPw93DUNM2V6EkTDO4uKRvMwHfUyTOqE1VGOsDAPXmB2er%2FDwlqPrUdSf6OgThZjRwPad%2FKGvXOCUV5ucQeqUTza0yYyevGaTYkLlxnK5vrq&datasetId=S2_L2A_CDAS&fromTime=2025-02-27T00%3A00%3A00.000Z&toTime=2025-02-27T23%3A59%3A59.999Z&layerId=6-SWIR&demSource3D=%22MAPZEN%22&cloudCoverage=11&dateMode=SINGLE
 
+-(3강) 참고 : 북극항로 json 파일  https://arctic-nga.opendata.arcgis.com/datasets/nga::shipping-and-hydrography/explore?layer=0
