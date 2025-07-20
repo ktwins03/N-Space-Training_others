@@ -11,9 +11,13 @@ NASA World view 2025년 5월 20일 DNB   https://worldview.earthdata.nasa.gov/?v
 GFW 2025년 5월19~21일 AIS https://globalfishingwatch.org/map/index?longitude=128.8916799630504&latitude=39.5192038824057&zoom=6.422530252252567&dvIn[0][id]=presence&dvIn[0][cfg][vis]=true&dvIn[1][id]=encounters&dvIn[1][cfg][vis]=false&dvIn[2][id]=vms&dvIn[2][cfg][vis]=false&dvIn[3][id]=ais&dvIn[3][cfg][vis]=false&bDV&tV=heatmap&start=2025-05-19T00%3A00%3A00.000Z&end=2025-05-21T00%3A00%3A00.000Z
 
 
+-(3강) 소말리아 근해 
 
+Senstinel 1 2025년 6월 2일 Copernicus Brwoser  https://browser.dataspace.copernicus.eu/?zoom=11&lat=11.88462&lng=51.14246&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BXod9owKBINaJxMUo69AIw1vNv92andRkX7ckVBUWijKp%2FkH5HUp7REFHK3pTUnFjcX4ZQlPRecfh6MMHEf8hcYup2UjbwgX0Mxcx7yPQiCxt%2FDaWymDrb&datasetId=S1_CDAS_IW_VVVH&fromTime=2025-06-02T00%3A00%3A00.000Z&toTime=2025-06-02T23%3A59%3A59.999Z&layerId=IW-DV-VV-DECIBEL-GAMMA0-ORTHORECTIFIED&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE
 
+GFW AIS 2025년 6월 1 ~ 3일 https://globalfishingwatch.org/map/index?longitude=51.26137293003174&latitude=11.910218281159324&zoom=9.162824836837329&start=2025-06-01T00%3A00%3A00.000Z&end=2025-06-03T00%3A00%3A00.000Z&dvIn[0][id]=sar&dvIn[0][cfg][vis]=true&dvIn[0][cfg][filters][matched][0]=false&dvIn[1][id]=presence&dvIn[1][cfg][vis]=true&dvIn[2][id]=vms&dvIn[2][cfg][vis]=false&dvIn[3][id]=ais&dvIn[3][cfg][vis]=false&bDV
 
+-(3강) 북부 조업 불빌 레이어
 
 
 
